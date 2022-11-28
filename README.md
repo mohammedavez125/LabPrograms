@@ -1,2 +1,2 @@
 # LabPrograms
-go to (src-> programs) for lab programs
+go to (src-> programs) for Java lab programs
