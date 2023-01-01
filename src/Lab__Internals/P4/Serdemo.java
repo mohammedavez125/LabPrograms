@@ -26,7 +26,8 @@ class Serdemo {
         FileInputStream in = new FileInputStream("new.txt");
         ObjectInputStream ob = new ObjectInputStream(in);
         emp2 = (Employee) ob.readObject();
-        System.out.println("Emp name : " + emp2.name + "\nAddress : " + emp2.address + "\nage : "+emp2.age); ob.close();
+        System.out.println("Emp name : " + emp2.name + "\nAddress : " + emp2.address + "\nage : "+emp2.age); 
+        ob.close();
         in.close();
         System.out.println("Exception has occured while fetching data");
     }
