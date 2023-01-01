@@ -1,5 +1,10 @@
 package Lab__Internals.P7;
 
+/*
+B) Write a Java program to implement iteration over Collection using
+        Iterator interface and List Iterator interface
+*/
+
 import java.util.*;
 
 class IterateDemo {

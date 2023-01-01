@@ -4,6 +4,9 @@ import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
 
+//  Write a Java applet program for handling mouse & key events.
+
+
 /*<applet code="MouseEventDemo" width=400 height=500>
 </applet>*/
 public class MouseEventDemo extends Applet implements MouseListener, MouseMotionListener {

@@ -1,5 +1,10 @@
 package Lab__Internals.P6;
 
+/*
+A) Write a Java program to illustrate the concept of threading using Thread
+Class and runnable Interface.
+*/
+
 class AddOne extends Thread {
     public void run(){
         System.out.println("Process executing on thread " + Thread.currentThread().getId());

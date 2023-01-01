@@ -1,5 +1,7 @@
 package Lab__Internals.P5;
 
+// A) Write a Java program to implement the concept of exception handling
+
 class ExceptionHandling {
     public static void main(String[] args){
         int d,a;

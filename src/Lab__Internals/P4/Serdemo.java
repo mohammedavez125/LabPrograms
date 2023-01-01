@@ -1,5 +1,7 @@
 package Lab__Internals.P4;
 
+//B) Write a Java program to implement serialization concept.
+
 import java.io.*;
 
 class Employee implements Serializable {

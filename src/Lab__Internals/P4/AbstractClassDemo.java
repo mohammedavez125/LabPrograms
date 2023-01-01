@@ -1,5 +1,6 @@
 package Lab__Internals.P4;
 
+//A) Write a Java program to demonstrate the Interface and Abstract Classes
 abstract class Demo {
     abstract void show();
 }

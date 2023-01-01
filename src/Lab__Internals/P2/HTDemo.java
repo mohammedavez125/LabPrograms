@@ -1,5 +1,10 @@
 package Lab__Internals.P2;
 
+/*
+B) Write a Java program to illustrate Legacy classes like Vector, Hash table,
+        Dictionary & Enumeration interface.
+*/
+
 import java.util.*;
 class HTDemo {
     public static void main(String[] args) {

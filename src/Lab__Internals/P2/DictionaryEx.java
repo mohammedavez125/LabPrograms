@@ -2,6 +2,11 @@ package Lab__Internals.P2;
 
 import java.util.*;
 
+/*
+B) Write a Java program to illustrate Legacy classes like Vector, Hash table,
+        Dictionary & Enumeration interface.
+*/
+
 class DictionaryEx {
     public static void main(String[] args){
         //creating a dictionary

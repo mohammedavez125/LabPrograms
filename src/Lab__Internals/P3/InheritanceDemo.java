@@ -1,5 +1,10 @@
 package Lab__Internals.P3;
 
+/*
+ A) Write a Java program to illustrate the concept of Single level and Multi
+        level Inheritance
+*/
+
 class One {
     String one_str = "class One";
 

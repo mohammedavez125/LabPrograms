@@ -1,5 +1,12 @@
 package Lab__Internals.P6;
 
+/*
+B) Write Java program that reads a file name from the user, and then
+    displays information about whether the file exists, whether the file is
+    readable, whether the file writable, the type of file and the length of the file
+    in bytes.
+*/
+
 import java.io.*;
 import java.nio.file.Files;
 import java.util.Scanner;

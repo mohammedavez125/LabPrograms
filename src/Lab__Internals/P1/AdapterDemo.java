@@ -1,5 +1,7 @@
 package Lab__Internals.P1;
 
+//B) Write a Java applet program to implements Adapter classes
+
 //import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;

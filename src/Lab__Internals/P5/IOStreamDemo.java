@@ -1,5 +1,7 @@
 package Lab__Internals.P5;
 
+//B) Write a java program to illustrate the concept of I/O Streams
+
 import java.io.*;
 class IOStreamDemo
 {

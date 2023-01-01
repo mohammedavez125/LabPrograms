@@ -1,5 +1,10 @@
 package Lab__Internals.P8;
 
+/*
+A) Write a Java program that correctly implements producer consumer
+    problem using the concept of inter thread
+*/
+
 class Customer {
     int amount = 10000;
 
@@ -33,11 +38,13 @@ class PcTest {
                 c.withdraw(15000);
             }
         }.start();
+
 //        THIS CAN BE ALSO WRITTEN AS new Thread(() -> c.withdraw(15000)).start();
         new Thread() {
             public void run(){
                 c.deposit(10000);
             }
         }.start();
+
     }
 }

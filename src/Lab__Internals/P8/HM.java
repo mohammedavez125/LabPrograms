@@ -1,7 +1,11 @@
 package Lab__Internals.P8;
 
-import java.util.*;
+/*
+B) Write a Java program to illustrate collection classes like Array List,
+    Linked List, Tree map and Hash map.
+*/
 
+import java.util.*;
 class HM {
     public static void main(String[] args){
         HashMap<Integer, String> hm = new HashMap<Integer, String>(); //Creating HashMap

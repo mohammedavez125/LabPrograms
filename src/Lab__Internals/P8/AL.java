@@ -1,5 +1,10 @@
 package Lab__Internals.P8;
 
+/*
+B) Write a Java program to illustrate collection classes like Array List,
+    Linked List, Tree map and Hash map.
+*/
+
 import java.util.*;
 
 class ArrayListDemo {

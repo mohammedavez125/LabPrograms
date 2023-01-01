@@ -1,5 +1,7 @@
 package Lab__Internals.P3;
 
+//B) Write a Java applet program to implement Color and Graphics class
+
 import java.awt.*;
 import java.applet.*;
 //import java.awt.color.ColorSpace;
